@@ -26,14 +26,14 @@ A clean and beginner-friendly Python tool to **merge multiple PDFs** and **split
 Clone the repository:
 ```bash
 
-git clone - https://github.com/nikhilkumar210h-debug/-pdf-merge-split-tool-
+git clone https://github.com/nikhilkumar210h-debug/-pdf-merge-split-tool-
 cd pdf-tool
 ```
 Install dependencies:
 pip install pypdf
 
 ________________________________________
-▶️ Usage
+## ▶️ Usage
 Run the script:
 python main.py
 Then choose:
@@ -41,18 +41,18 @@ Then choose:
 •	2 → Split PDF 
 •	0 → Exit 
 ________________________________________
-📸 Preview
+### 📸 Preview
 demo video - 
 ________________________________________
-🎯 Future Improvements
-•	Drag & Drop support 
-•	Full GUI (buttons & preview) 
-•	Export as standalone .exe 
-•	Custom page selection 
+## 🎯 Future Improvements
+- Drag & Drop support 
+- Full GUI (buttons & preview) 
+- Export as standalone .exe 
+- Custom page selection 
 ________________________________________
-👨‍💻 Author
-Nikhil Kumar
-Aspiring Machine Learning Engineer
+## 👨‍💻 Author
+### Nikhil Kumar
+- Aspiring Machine Learning Engineer
 ________________________________________
-🌟 Support
-If you found this project useful, consider giving it a ⭐ on GitHub!
+## 🌟 Support
+- If you found this project useful, consider giving it a ⭐ on GitHub!
